@@ -1,2 +1,3 @@
 # learn_algorithm
-code training
+
+test coding is necessary
